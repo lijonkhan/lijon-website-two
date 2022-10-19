@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.ordek{
+    width: 30%;
+    float: left;
+    margin: 5%;
+    padding: 5%;
+}
+.ordek img{
+    width: 100%;
+    
+    margin-top: -80px;
+    
+    
+   
+}
+.nstyle{
+    font-size: 30px;
+    color: tomato;
+}
+.bstyle{
+text-decoration: none;
+border: 1px solid tomato;
+border-radius: 5px;
+padding: 10px 20px;
+background-color: tomato;
+color: white;
+font-weight: bold;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.prothom{
+    background-image: url("image/header-bg.png");
+    background-repeat: no-repeat;
+   
+    
+}
+
+.middle{
+    background-image: url("image/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.latestwork{
+    float: left;
+    margin-left: 200px;
+
+}
+.latestwork img{
+   width: 300px;
+   height: auto;
+   padding: 10px;
+
+}
+
+.tarpor{
+    background-image: url("image/latest-work-bg.png");
+}
+.htik{
+    padding-top: 50px;
+}
